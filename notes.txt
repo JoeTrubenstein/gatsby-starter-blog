@@ -1,0 +1,1 @@
+npm install --save gatsby-plugin-typography typography react-typography typography-theme-lawton gatsby-plugin-emotion @emotion/core
