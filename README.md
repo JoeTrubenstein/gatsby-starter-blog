@@ -2,6 +2,12 @@
 
 A completed version of the [Official Gatsby Tutorial](https://www.gatsbyjs.org/tutorial/), with some dummy content.
 
+For anyone who wants to get started with the basic blog foundation already in place.
+
+##Live Demo
+
+[https://plastic-love.surge.sh/](https://plastic-love.surge.sh/)
+
 ### To use
 ```
 npx gatsby new gatsby-starter-blog https://github.com/joetrubenstein/gatsby-starter-blog.git
