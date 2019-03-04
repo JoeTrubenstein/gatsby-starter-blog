@@ -1,6 +1,6 @@
 ## 🚀 Gatsby starter blog
 
-A completed version of the [Official Gatsby Tutorial](https://www.gatsbyjs.org/tutorial/), with some dummy content.
+This is a completed version of the [Official Gatsby Tutorial](https://www.gatsbyjs.org/tutorial/), with some dummy content.
 
 For anyone who wants to get started with the basic blog foundation already in place.
 
