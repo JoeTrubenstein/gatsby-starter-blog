@@ -4,7 +4,7 @@ A completed version of the [Official Gatsby Tutorial](https://www.gatsbyjs.org/t
 
 For anyone who wants to get started with the basic blog foundation already in place.
 
-###Live Demo
+### Live Demo
 
 [https://plastic-love.surge.sh/](https://plastic-love.surge.sh/)
 
