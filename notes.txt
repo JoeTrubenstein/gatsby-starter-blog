@@ -1,1 +1,4 @@
+
+gatsby new gatsby-starter-ceevee https://github.com/amandeepmittal/gatsby-starter-ceevee
+
 npm install --save gatsby-plugin-typography typography react-typography typography-theme-lawton gatsby-plugin-emotion @emotion/core
