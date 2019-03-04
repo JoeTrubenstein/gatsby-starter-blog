@@ -1,5 +1,5 @@
 
-npx gatsby new gatsby-starter-blog https://github.com/joetrubenstein/
+npx gatsby new gatsby-starter-blog https://github.com/joetrubenstein/gatsby-starter-blog.git
 
 npm install --save gatsby-plugin-typography typography react-typography typography-theme-lawton gatsby-plugin-emotion @emotion/core
 
