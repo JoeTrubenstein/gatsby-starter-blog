@@ -8,14 +8,18 @@ npx gatsby new gatsby-starter-blog https://github.com/joetrubenstein/gatsby-star
 
 ```
 
-Emotion CSS-in-JS
-Typography.js
+```
+cd gatsby-starter-blog
+
+```
+
+Install Emotion CSS-in-JS and Typography.js
 
 ```
 npm install --save gatsby-plugin-typography typography react-typography typography-theme-lawton gatsby-plugin-emotion @emotion/core
 ```
 
-Gatsby Plugins
+Install Gatsby Plugins
 
 ```
 npm install --save gatsby-source-filesystem
@@ -23,4 +27,10 @@ npm install --save gatsby-source-filesystem
 
 ```
 npm install --save gatsby-transformer-remark
+```
+
+Run development server
+
+```
+npm run develop
 ```
