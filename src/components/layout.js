@@ -20,7 +20,7 @@ export default ({ children }) => (
           margin: 0 auto;
           max-width: 700px;
           padding: 10px;
-          padding-top: 5px;
+          padding-top: 20px;
         `}
       >
         <Link to={`/`}>
@@ -35,9 +35,19 @@ export default ({ children }) => (
           </h3>
         </Link>
         <Link
+          to={`/my-files/`}
+          css={css`
+            float: right;
+            margin-right: 10px;
+          `}
+        >
+          My Files
+        </Link>
+        <Link
           to={`/about/`}
           css={css`
             float: right;
+            margin-right: 10px;
           `}
         >
           About

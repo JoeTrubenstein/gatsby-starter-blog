@@ -1,21 +1,22 @@
 module.exports = {
-  siteMetadata: {
-    title: `JAMstack Soundtrack`,
-  },
-  plugins: [
-    `gatsby-plugin-emotion`,
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `src`,
-        path: `${__dirname}/src/`,
-      },
+    siteMetadata: {
+      title: `JAMstack Soundtrack`,
     },
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
+    plugins: [
+      {
+        resolve: `gatsby-source-filesystem`,
+        options: {
+          name: `src`,
+          path: `${__dirname}/src/`,
+        },
       },
-    },
-  ],
-}
+      `gatsby-transformer-remark`,
+      `gatsby-plugin-emotion`,
+      {
+        resolve: `gatsby-plugin-typography`,
+        options: {
+          pathToConfigModule: `src/utils/typography`,
+        },
+      },
+    ],
+  }

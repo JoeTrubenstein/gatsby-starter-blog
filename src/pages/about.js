@@ -1,23 +1,32 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
+import { css } from "@emotion/core"
 
 export default ({ data }) => (
   <Layout>
     <h1>About {data.site.siteMetadata.title}</h1>
-    <p>
-      We're the only site running on your computer dedicated to showing the best
-      photos and videos of pandas eating lots of food.
-    </p>
+    <p>The power of React and GraphQl</p>
+    <p>The aesthetics of Vaporwave and City Pop</p>
+    <p>What's not to love?</p>
+    <img
+      src="https://source.unsplash.com/cv3T6MG36DE/"
+      alt="Tokyo by Jezael Melgola on Unsplash"
+      css={css`
+        object-fit: cover;
+        height: 400px;
+        width: 100%;
+      `}
+    />
   </Layout>
 )
 
 export const query = graphql`
-    query {
-        site {
-            siteMetadata {
-                title
-            }
-        }
+  query {
+    site {
+      siteMetadata {
+        title
+      }
     }
+  }
 `
