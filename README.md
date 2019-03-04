@@ -1,6 +1,12 @@
 ## 🚀 Gatsby starter blog
 
-A completed version of the [Official Gatsby Tutorial](https://www.gatsbyjs.org/tutorial/) 
+A completed version of the [Official Gatsby Tutorial](https://www.gatsbyjs.org/tutorial/), with some dummy content.
+
+### To use
+```
+npx gatsby new gatsby-starter-blog https://github.com/joetrubenstein/gatsby-starter-blog.git
+
+```
 
 Emotion CSS-in-JS
 Typography.js
