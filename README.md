@@ -11,12 +11,10 @@ For anyone who wants to get started with the basic blog foundation already in pl
 ### To use
 ```
 npx gatsby new gatsby-starter-blog https://github.com/joetrubenstein/gatsby-starter-blog.git
-
 ```
 
 ```
 cd gatsby-starter-blog
-
 ```
 
 Install Emotion CSS-in-JS and Typography.js
