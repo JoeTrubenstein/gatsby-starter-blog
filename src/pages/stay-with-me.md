@@ -9,7 +9,7 @@ featuredimage: "https://source.unsplash.com/layMbSJ3YOE/"
 I listened to it at least three or four times while working on this site.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k-KAY_Glmn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="95%" height="315" src="https://www.youtube.com/embed/k-KAY_Glmn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <blockquote>
 They say 恋 (koi) and 愛 (ai) are two different things

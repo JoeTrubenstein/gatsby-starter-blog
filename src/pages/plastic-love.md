@@ -7,7 +7,7 @@ featuredimage: "https://source.unsplash.com/EWoKzBWrNQM/"
 ##This hit by Mariya Takeuchi is widely regarded as the quintessential city pop anthem.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Gj47G2e1Jc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="95%" height="315" src="https://www.youtube.com/embed/9Gj47G2e1Jc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Totsuzen no kiss ya
 Atsui manazashi de
