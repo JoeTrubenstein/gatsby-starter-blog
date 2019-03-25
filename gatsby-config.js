@@ -4,6 +4,14 @@ module.exports = {
     },
     plugins: [
       {
+        resolve: "gatsby-source-graphql",
+        options: {
+          typeName: "PokeAPI",
+          fieldName: "pokemonApi",
+          url: "https://graphql-pokemon.now.sh"
+        },
+      },
+      {
         resolve: `gatsby-source-filesystem`,
         options: {
           name: `src`,

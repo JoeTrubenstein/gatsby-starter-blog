@@ -52,6 +52,15 @@ export default ({ children }) => (
         >
           About
         </Link>
+        <Link
+          to={`/api/`}
+          css={css`
+            float: right;
+            margin-right: 10px;
+          `}
+        >
+          API Demo
+        </Link>
         {children}
       </div>
     )}
