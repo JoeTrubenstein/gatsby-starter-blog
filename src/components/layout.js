@@ -34,7 +34,7 @@ export default ({ children }) => (
             {data.site.siteMetadata.title}
           </h3>
         </Link>
-        <Link
+        {/* <Link
           to={`/my-files/`}
           css={css`
             float: right;
@@ -42,7 +42,7 @@ export default ({ children }) => (
           `}
         >
           My Files
-        </Link>
+        </Link> */}
         <Link
           to={`/about/`}
           css={css`
