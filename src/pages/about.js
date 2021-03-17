@@ -7,7 +7,7 @@ export default ({ data }) => (
   <Layout>
     <h1>About {data.site.siteMetadata.title}</h1>
     <p>The power of React and GraphQl</p>
-    <p>and the aesthetics of Vaporwave and City Pop</p>
+    <p>and the aesthetic of Vaporwave City Pop</p>
     <p>What's not to love?</p>
     <img
       src="https://source.unsplash.com/cv3T6MG36DE/"
